@@ -1,0 +1,14 @@
+C:\Users\myilmaz\source\repos\DynamicVSVar\DynamicVSVar\bin\Debug\netcoreapp3.1\DynamicVSVar.exe
+C:\Users\myilmaz\source\repos\DynamicVSVar\DynamicVSVar\bin\Debug\netcoreapp3.1\DynamicVSVar.deps.json
+C:\Users\myilmaz\source\repos\DynamicVSVar\DynamicVSVar\bin\Debug\netcoreapp3.1\DynamicVSVar.runtimeconfig.json
+C:\Users\myilmaz\source\repos\DynamicVSVar\DynamicVSVar\bin\Debug\netcoreapp3.1\DynamicVSVar.runtimeconfig.dev.json
+C:\Users\myilmaz\source\repos\DynamicVSVar\DynamicVSVar\bin\Debug\netcoreapp3.1\DynamicVSVar.dll
+C:\Users\myilmaz\source\repos\DynamicVSVar\DynamicVSVar\bin\Debug\netcoreapp3.1\DynamicVSVar.pdb
+C:\Users\myilmaz\source\repos\DynamicVSVar\DynamicVSVar\obj\Debug\netcoreapp3.1\DynamicVSVar.csproj.AssemblyReference.cache
+C:\Users\myilmaz\source\repos\DynamicVSVar\DynamicVSVar\obj\Debug\netcoreapp3.1\DynamicVSVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myilmaz\source\repos\DynamicVSVar\DynamicVSVar\obj\Debug\netcoreapp3.1\DynamicVSVar.AssemblyInfoInputs.cache
+C:\Users\myilmaz\source\repos\DynamicVSVar\DynamicVSVar\obj\Debug\netcoreapp3.1\DynamicVSVar.AssemblyInfo.cs
+C:\Users\myilmaz\source\repos\DynamicVSVar\DynamicVSVar\obj\Debug\netcoreapp3.1\DynamicVSVar.csproj.CoreCompileInputs.cache
+C:\Users\myilmaz\source\repos\DynamicVSVar\DynamicVSVar\obj\Debug\netcoreapp3.1\DynamicVSVar.dll
+C:\Users\myilmaz\source\repos\DynamicVSVar\DynamicVSVar\obj\Debug\netcoreapp3.1\DynamicVSVar.pdb
+C:\Users\myilmaz\source\repos\DynamicVSVar\DynamicVSVar\obj\Debug\netcoreapp3.1\DynamicVSVar.genruntimeconfig.cache
